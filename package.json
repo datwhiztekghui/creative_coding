@@ -1,0 +1,19 @@
+{
+  "name": "creative-coding",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "looping.js",
+  "scripts": {
+    "start": "node looping.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^3.1.0",
+    "canvas-sketch": "latest",
+    "canvas-sketch-util": "latest",
+    "tweakpane": "latest"
+  }
+}
